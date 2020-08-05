@@ -1,3 +1,4 @@
+<script src="../JS/My_JavaScripts.js"></script>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PK Contact</title>
@@ -41,3 +42,4 @@
     </div>
     
   </nav>
+ 
