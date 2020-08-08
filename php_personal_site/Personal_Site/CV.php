@@ -25,11 +25,11 @@
         </div>
         <div class="w3-container">
           <br>
-          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Student /Web Developer</p>
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>IT Student /Web Developer</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Thessaloniki, GR</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><a href = "mailto:it164692@it.teithe.gr">it164692@it.teithe.gr</a>
-          <a id="mail" href = "mailto:petros.94@windowslive.com">petros.94@windowslive.com</a><br>
-          <a id="mail" href = "mailto:kyrkospetros@yahoo.com">kyrkospetros@yahoo.com</a></p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i><a href = "mailto:it164692@it.teithe.gr">it164692@it.teithe.gr</a></p>
+          <p><i class=" w3-margin-right w3-large w3-text-teal"></i><a href = "mailto:petros.94@windowslive.com">petros.94@windowslive.com</a></p>
+          <p><i class="w3-margin-right w3-large w3-text-teal"></i><a href = "mailto:kyrkospetros@yahoo.com">kyrkospetros@yahoo.com</a></p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+30 6989084534</p>
           <hr>
 
@@ -101,6 +101,13 @@
 
     <!-- Right Column -->
     <div class="w3-twothird">
+    <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-male fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Personal Info</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Berthday Date</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>19/10/1994</h6>
+        </div>
+      </div>
     
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
@@ -152,3 +159,10 @@
 
 </body>
 </html>
+
+
+
+
+
+
+
