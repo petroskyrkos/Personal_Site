@@ -102,10 +102,25 @@
     <!-- Right Column -->
     <div class="w3-twothird">
     <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-male fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Personal Info</h2>
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-male fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Personal Info </h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Full Name</b></h5>
+          <h6 class="w3-text-teal"><i class="	fa fa-user fa-fw w3-margin-right"></i>Kyrkos Petros</h6>
+        </div>
+        <hr>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Str Adress</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-envelope-square fa-fw w3-margin-right"></i>Ierissou 14</h6>
+        </div>
+        <hr>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Berthday Date</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>19/10/1994</h6>
+        </div>
+        <hr>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Military Obligations</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>January/20/2014 - October/20/2014 - <span class="w3-tag w3-teal w3-round">Fulfilled</span></h6>
         </div>
       </div>
     
