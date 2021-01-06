@@ -1,4 +1,4 @@
-  <body class="w3-white w3-animate-top">
+  <body class="w3-white w3-animate-top" onload="javascript:display_ct()">
     <!---Navbar--->
     <?php include "./includes/navBar.php" ?>
 
